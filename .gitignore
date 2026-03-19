@@ -53,4 +53,5 @@ Icon
 .env
 .venv
 env.bak
-*.relresources/
+
+resources/
