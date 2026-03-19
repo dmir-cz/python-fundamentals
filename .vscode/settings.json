@@ -1,0 +1,8 @@
+{
+    "github.copilot.chat.agent.currentEditorContext.enabled": true,
+    "github.copilot.chat.backgroundAgent.enabled": true,
+    "github.copilot.chat.claudeAgent.enabled": true,
+    "github.copilot.chat.cloudAgent.enabled": true,
+    "github.copilot.chat.organizationCustomAgents.enabled": true,
+    "github.copilot.chat.organizationInstructions.enabled": true
+}
