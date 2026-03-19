@@ -27,13 +27,13 @@ Installing packages in Python is a straightforward process. The package manager 
 To install a package, use the following command format:
 
 ```bash
-pip install -r package_name
+pip install package_name
 ```
 
 **Example**: To install the **requests** package:
 
 ```bash
-pip install -r requests
+pip install requests
 ```
 
 ---
@@ -43,13 +43,13 @@ pip install -r requests
 Sometimes, you may need a specific version of a package. Use the following format:
 
 ```bash
-pip install -r package_name==version_number
+pip install package_name==version_number
 ```
 
 **Example**: To install version 2.25.1 of requests:
 
 ```bash
-pip install -r requests==2.25.1
+pip install requests==2.25.1
 ```
 
 ---
@@ -94,13 +94,13 @@ pip install -r requirements.txt
 If you have multiple Python versions, you can specify which version of pip to use:
 
 ```bash
-python3 -m pip install -r package_name
+python3 -m pip install package_name
 ```
 
 **Example**:
 
 ```bash
-python3 -m pip install -r pandas
+python3 -m pip install pandas
 ```
 
 ---
