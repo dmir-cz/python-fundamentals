@@ -27,7 +27,7 @@ Installing packages in Python is a straightforward process. The package manager 
 To install a package, use the following command format:
 
 ```bash
-pip install package_name
+pip install - r package_name
 ```
 
 **Example**: To install the **requests** package:
